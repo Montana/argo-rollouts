@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/20936398/147022386-55fc2c8b-92d5-4a34-908f-9d83285c1aef.png)
 
 
-# Argo Rollout 
+# Argo Rollouts
 
 I've attached a Argo YAML file, to go along with this brief README I'll be putting together.
 
